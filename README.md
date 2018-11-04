@@ -1,5 +1,4 @@
-# pintu
-Event Registration System
+A basic structure to start development of Vue with .NET Core
 
 How to:
 
