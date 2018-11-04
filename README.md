@@ -1,4 +1,4 @@
-A basic structure to start development of Vue with .NET Core
+A basic structure to start development with Vue and .NET Core
 
 How to:
 
